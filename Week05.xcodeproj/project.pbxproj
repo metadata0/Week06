@@ -78,7 +78,7 @@
 		52188D2F29AE607600095432 = {
 			isa = PBXGroup;
 			children = (
-				52188D3A29AE607700095432 /* Week05 */,
+				52188D3A29AE607700095432 /* Week06 */,
 				52188D3929AE607700095432 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -93,7 +93,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		52188D3A29AE607700095432 /* Week05 */ = {
+		52188D3A29AE607700095432 /* Week06 */ = {
 			isa = PBXGroup;
 			children = (
 				52188D3B29AE607700095432 /* Week05App.swift */,
@@ -104,7 +104,7 @@
 				52188D6C29AE61D600095432 /* Resources */,
 				52188D4129AE609700095432 /* Preview Content */,
 			);
-			path = Week05;
+			path = Week06;
 			sourceTree = "<group>";
 		};
 		52188D4129AE609700095432 /* Preview Content */ = {
